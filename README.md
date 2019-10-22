@@ -13,6 +13,7 @@ Bratislava, Slovakia
 - Involving participants with regards to their role to activities that are the subject to IT-monitoring
 - Improving current IT-infrastructure components to more reliable/effective
 
+##
 **2015 – July, 2018**
 *UNION a part of Achmea, NL*, `System administrator`
 - Taking a part in KRKC framework also playing a role in internal audits: ISF, KPMG
@@ -21,11 +22,12 @@ Bratislava, Slovakia
 - Administrating Oracle Solaris 11, Ubuntu Linux, Oracle Weblogic and Oracle Glassfish application servers
 - Release management, Symantec Bright mail antispam administration
 
+##
 **2013 - 2015**
 *ING Bank, Slovakia*, `Information Security Officer`
-
 - Playing a role in preparation for cybersecurity audit, collaborating with six branches in Central and Eastern Europe.
 
+##
 **2012 – 2013**
 *Orange, Slovakia*, `Security administrator`
 - Configuration Operation Systems (Windows Server, Linux Red Hat) in compliance with local security policy. Local Wiki re-creating and administration.
