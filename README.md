@@ -23,12 +23,12 @@ Bratislava, Slovakia
 
 **2013 - 2015**
 *ING Bank, Slovakia*, `Information Security Officer`
-Playing a role in preparation for cybersecurity audit, collaborating
-with six branches in Central and Eastern Europe.
+
+- Playing a role in preparation for cybersecurity audit, collaborating with six branches in Central and Eastern Europe.
 
 **2012 – 2013**
 *Orange, Slovakia*, `Security administrator`
-Configuration Operation Systems (Windows Server, Linux Red Hat) in compliance with local security policy. Local Wiki re-creating and administration.
+- Configuration Operation Systems (Windows Server, Linux Red Hat) in compliance with local security policy. Local Wiki re-creating and administration.
 
 
 ## Education
