@@ -7,13 +7,15 @@ Bratislava, Slovakia
 
 ## Occupation
 **2018, July - Now**
-*Ferratum*
-`APM specialist`
+
+*Ferratum*, `APM specialist`
+
 Building an IT-service from scratch
 Involving participants with regards to their role to activities that
 are the subject to IT-monitoring
 Improving current IT-infrastructure components to more reliable/
 effective
+
 
 
 **2015 – July,2018** *UNION a part of Achmea, NL*
