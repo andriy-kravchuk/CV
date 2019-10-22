@@ -61,14 +61,14 @@ Measure a performance time of business-critical assets. Notification in case of 
 deviation. Found some critical problems in service quality and availability. 
 
 ## Qualifications, knowledge and area of interests
-- ITIL-4
+- `ITIL-4`
 Using a framework / practices to have more effective outcome in mamagement tasks.
 
-- IT Routine processes automation.
+- IT Routine processes `automation`.
 It is a vital to provide to customer a high-quality service which is modern, available 24/7 and works as quick as possible.
 As new features need to be implemented seamlessly, quickly and without errors it’s good to have automated. So, to do this I'm using Python
 
-- Programming Python, Flask Framework, Selenium Framework, Java Script, JQuery,
-SQL (very basic)
-Administration Ubuntu/Debian Linux, Solaris 11, FreeBSD, Windows Server (Basic)
-Applications APM New Relic, Prometheus, Grafana
+- `Programming` Python, Flask Framework, Selenium Framework, Java Script, JQuery,SQL (very basic).
+
+- Administration Ubuntu/Debian Linux, Solaris 11, FreeBSD, Windows Server (Basic)
+- Applications APM New Relic, Prometheus, Grafana
