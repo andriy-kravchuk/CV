@@ -46,17 +46,17 @@ Bratislava, Slovakia
 
 
 ## Successful projects
-- Prometheus 
+- `Prometheus`
 Migration from Zabbix to Prometheus as a new platform for microservice architecture as more suitable platform.
 
 - APM with New Relic
 Started as a new software application it is integrated to Enterprise IT-infrastrucure on basic level and customly instrumented Business-Critical components. Using new technologies brings deeper visibility and control
 of in-company made applications. Hence, better quality a whole IT- infrastructure.
 
-- Release management automatization.
+- Release management `automation`.
 Implement more new features to give those to customers and more quickly. Reduce probability of errors in release installation process. Reduce outage time which needed for release installation.
 
-- Application performance monitoring.
+- Application performance `monitoring`.
 Measure a performance time of business-critical assets. Notification in case of performance threshold pass or availability
 deviation. Found some critical problems in service quality and availability. 
 
