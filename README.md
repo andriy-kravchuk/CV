@@ -1,7 +1,5 @@
 ## Contact details
-+42 950 273 277 *WhatsApp, Viber or FaceTime*
-
-andr.k@icloud.com
+akravcuk.cv@gmail.com
 
 Bratislava, Slovakia
 
