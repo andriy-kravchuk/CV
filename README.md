@@ -7,9 +7,8 @@ Bratislava, Slovakia
 ## Occupation
 **2018, July - Now**
 *Ferratum*, `APM specialist`
-- Building an IT-service from scratch
-- Involving participants with regards to their role to activities that are the subject to IT-monitoring
-- Improving current IT-infrastructure components to more reliable/effective
+- Building IT IS monitoring service the goal of which is stable, flexible and resilient IT infrastructure. It is achieved through using modern IT-technologies such as Prometheus, APM New Relic, Grafana.
+
 
 ##
 **2015 – July, 2018**
